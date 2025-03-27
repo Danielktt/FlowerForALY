@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Imperial+Script&display=swap');
+
+
+body {
+    background-color: #000;
+    width: 100vw;
+}
+
+canvas {
+    /* border: 1px solid #f00; */
+    background-color: #000;
+    /* width: 100%;
+    height: 100% */
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 720px;
+    margin: 0 auto;
+}
+
+.versicle {
+    color: #fff;
+    text-align: center;
+    font-size: 3rem;
+    font-family: "Imperial Script", cursive;
+    font-weight: 400;
+    font-style: normal;
+    padding-bottom: 4rem;
+}
+
